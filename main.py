@@ -9,6 +9,8 @@ import pandas as pd
 import time
 
 
+print("Testing git status in Git")
+
 lineas = []
 line2 = []
 
